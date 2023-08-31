@@ -25,6 +25,14 @@ Language: js
 ```
 7. Open/create the issue and the output of the sample code will be visible in the new comment executed by the bot.
 
+## Demo Video
+
+[demo.webm](https://github.com/iamansingh0/gitApp-codemate/assets/71139893/253b70f7-b6bf-41b3-a326-21a0330e30c4)
+
+## Report
+
+[Aman_CODEMATE_REPORT.pdf](https://github.com/iamansingh0/gitApp-codemate/files/12482747/Aman_CODEMATE_REPORT.pdf)
+
 ## License
 
 [ISC](LICENSE) © 2023 iamansingh0
