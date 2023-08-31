@@ -1,0 +1,35 @@
+{
+  "name": "gitapp-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Probot app",
+  "author": "iamansingh0",
+  "license": "ISC",
+  "homepage": "https://github.com//",
+  "keywords": [
+    "probot",
+    "github",
+    "probot-app"
+  ],
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "probot": "11.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.22.11",
+    "@babel/preset-env": "^7.22.14",
+    "jest": "^29.0.0",
+    "nock": "^13.0.5",
+    "piston-client": "^1.0.2",
+    "smee-client": "^1.2.2"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
